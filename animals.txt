@@ -3,3 +3,6 @@ Welcome to zoo
 rabbit
 wolf
 girafe
+snake
+elephant 
+lion
