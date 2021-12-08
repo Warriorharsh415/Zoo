@@ -6,3 +6,5 @@ girafe
 snake
 elephant 
 lion
+dog
+leopard
